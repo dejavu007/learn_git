@@ -1,1 +1,2 @@
-git init - Initialize 
+git init - Initialize git
+git init <<directory>> - Create a directory and initialize git
