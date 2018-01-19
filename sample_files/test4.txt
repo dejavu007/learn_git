@@ -1,1 +1,3 @@
 A new sample file added
+
+Some changes added to sample file.
